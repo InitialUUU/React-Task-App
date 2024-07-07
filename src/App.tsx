@@ -7,7 +7,7 @@ function App() {
   return (
     <div className={appContainer}>
       <div className={board}>
-
+        <BoardList />
       </div>
       <div className={buttons}>
         <button>
